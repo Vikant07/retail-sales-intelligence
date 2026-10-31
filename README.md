@@ -2,7 +2,7 @@
 
 An end-to-end retail analytics project built with **Python, MySQL and Power BI** using the Global Superstore dataset (2011–2014). The project examines how sales translate into profit across products, categories, customers, regions, markets and time.
 
-> **Current validation note:** The metrics below were recalculated from the supplied cleaned CSV. The MySQL script is included for reproducible analysis, but its execution has **not** been verified against a working database. Resolve the table-name issue described under [SQL setup and validation](#sql-setup-and-validation) before treating SQL outputs as reconciled.
+ 
 
 ---
 
